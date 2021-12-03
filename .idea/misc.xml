@@ -3,7 +3,32 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/admin/AndroidStudioProjects/GoJejuTour01/app/src/main/res/layout/activity_main.xml" value="0.14184397163120568" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/activity_main.xml" value="0.18125" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/b2_register_1_1.xml" value="0.18125" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/e2_notice_detail_4_1.xml" value="0.18125" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/firstpage_0.xml" value="0.1" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/footer_2_3.xml" value="0.1" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/googlemap_2_2.xml" value="0.1" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/header_2_2.xml" value="0.1" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/hotplace_detail_5_1.xml" value="0.1" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/hotplace_main_5.xml" value="0.1" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/login_1.xml" value="0.1" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/main_2.xml" value="0.1" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/mainsidebar_2_1.xml" value="0.1" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/mypage_2_4.xml" value="0.1" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/mypage_setting_3_1.xml" value="0.1" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/myschdule_6.xml" value="0.1" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/myschedule_detail_6_1.xml" value="0.1" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/myschedule_update_6_2_2.xml" value="0.1" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/myschedule_write_6_2_1.xml" value="0.1" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/notice_4.xml" value="0.1" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/notice_detail_4_1.xml" value="0.1" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/register_1_1.xml" value="0.1" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/traveltalk_7.xml" value="0.1" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/traveltalk_detail_7_1.xml" value="0.1" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/traveltalk_update_7_2_2.xml" value="0.1" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/traveltalk_write_7_2_1.xml" value="0.1" />
+        <entry key="..\:/Users/sumee/AndroidStudioProjects/Me/GoJejuTour01/app/src/main/res/layout/weather_2_3.xml" value="0.1" />
       </map>
     </option>
   </component>
