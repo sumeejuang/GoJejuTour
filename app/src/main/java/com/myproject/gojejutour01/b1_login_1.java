@@ -11,5 +11,7 @@ public class b1_login_1 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.b1_2_login_1);
         //안녕하세요
+
+        //안녕하세요 1111111
     }
 }
