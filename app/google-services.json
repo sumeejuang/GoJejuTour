@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "954311223975",
+    "project_id": "gojejutour01",
+    "storage_bucket": "gojejutour01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954311223975:android:2a918d7a8539963f474982",
+        "android_client_info": {
+          "package_name": "com.myproject.gojejutour01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954311223975-pjfi8keoklnc2lvjp5satd9l7amsb3ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN4MLq61SB6gLJP5p5IuskIiVlb5xiuw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954311223975-pjfi8keoklnc2lvjp5satd9l7amsb3ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
