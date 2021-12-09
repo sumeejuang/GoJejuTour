@@ -1,6 +1,7 @@
 package com.myproject.gojejutour01;
 
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
@@ -42,4 +43,5 @@ public class c2_mainsidebar_2_1_1_item_sbheader extends AppCompatActivity {
 
         alertDialog.show();
     }
+
 }

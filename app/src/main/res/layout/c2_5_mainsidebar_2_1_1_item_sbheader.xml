@@ -32,20 +32,12 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:id="@+id/btn1"
-            android:text="0"
-            android:textSize="50sp"
-            android:background="#00ff0000"
-            android:textColor="@color/black"/>
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
             android:id="@+id/btn2"
             android:text="1"
             android:textSize="50sp"
             android:background="#00ff0000"
-            android:textColor="@color/black"/>
+            android:textColor="@color/black"
+            android:onClick="clickBtn2"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -54,7 +46,8 @@
             android:text="5"
             android:textSize="50sp"
             android:background="#00ff0000"
-            android:textColor="@color/black"/>
+            android:textColor="@color/black"
+            android:onClick="clickBtn3"/>
     </LinearLayout>
 
     <LinearLayout
@@ -65,20 +58,12 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:id="@+id/btn4"
-            android:text="MY 일정"
-            android:textSize="20dp"
-            android:background="#00ff0000"
-            android:textColor="@color/black"/>
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
             android:id="@+id/btn5"
             android:text="MY 코멘트"
             android:textSize="20dp"
             android:background="#00ff0000"
-            android:textColor="@color/black"/>
+            android:textColor="@color/black"
+            android:onClick="clickBtn2"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -87,7 +72,8 @@
             android:text="MY 톡"
             android:textSize="20dp"
             android:background="#00ff0000"
-            android:textColor="@color/black"/>
+            android:textColor="@color/black"
+            android:onClick="clickBtn3"/>
     </LinearLayout>
 
     <LinearLayout
@@ -102,63 +88,58 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/btn7"
-            android:text="ㆍ공지사항"
+            android:text="ㆍ지역별 관광지"
             android:textSize="18dp"
+            android:textStyle="bold"
             android:background="#00ff0000"
             android:textColor="@color/black"
-            android:paddingTop="20dp"/>
+            android:onClick="clickBtn4"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/btn8"
-            android:text="ㆍ지역별 관광지"
+            android:text="ㆍMY PAGE"
             android:textSize="18dp"
+            android:textStyle="bold"
             android:background="#00ff0000"
-            android:textColor="@color/black"/>
+            android:textColor="@color/black"
+            android:onClick="clickBtn5"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/btn9"
-            android:text="ㆍMY PAGE"
+            android:text="ㆍ여행 TALK"
             android:textSize="18dp"
-            android:background="#00ff0000"
-            android:textColor="@color/black"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/tv2"
-            android:text="ㆍMY 여행"
-            android:textSize="18dp"
+            android:textStyle="bold"
             android:background="#00ff0000"
             android:textColor="@color/black"
-            android:padding="10dp"
-            android:layout_marginLeft="8dp"/>
+            android:onClick="clickBtn6"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/btn10"
-            android:text="-일정"
-            android:textSize="16dp"
+            android:text="ㆍ로그아웃"
+            android:textSize="18dp"
+            android:textStyle="bold"
             android:background="#00ff0000"
             android:textColor="@color/black"
-            android:layout_marginLeft="20dp"/>
+            android:onClick="clickBtn7"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/btn11"
-            android:text="-경비"
-            android:textSize="16dp"
+            android:text="공지사항"
+            android:textSize="18dp"
+            android:textStyle="bold"
             android:background="#00ff0000"
             android:textColor="@color/black"
-            android:layout_marginLeft="20dp"/>
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/btn12"
-            android:text="ㆍ로그아웃"
-            android:textSize="18dp"
-            android:background="#00ff0000"
-            android:textColor="@color/black"/>
+            android:drawableLeft="@drawable/ic_baseline_campaign_24"
+            android:onClick="clickBtn8"/>
     </LinearLayout>
 
 </LinearLayout>

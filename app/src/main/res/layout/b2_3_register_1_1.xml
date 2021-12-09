@@ -131,7 +131,8 @@
                 android:layout_marginBottom="35dp"
                 android:background="@color/colorFBlue"
                 android:text="@string/signin_registerIn"
-                android:textColor="@color/white" />
+                android:textColor="@color/white"
+                android:onClick="clickBtn"/>
 
         </LinearLayout>
 

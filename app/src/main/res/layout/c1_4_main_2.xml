@@ -52,16 +52,17 @@
                 android:layout_height="35dp"
                 android:layout_alignParentEnd="true"
                 android:layout_marginEnd="43dp"
-                android:src="@drawable/ic_map" />
+                android:src="@drawable/ic_map"
+                android:onClick="clickBtn"/>
 
             <ImageView
                 android:id="@+id/toolbar_btn_map"
                 android:layout_width="35dp"
                 android:layout_height="35dp"
                 android:layout_alignParentEnd="true"
-
                 android:layout_marginEnd="8dp"
-                android:src="@drawable/ic_weather_2" />
+                android:src="@drawable/ic_weather_2"
+                android:onClick="clickBtn2"/>
 
 
         </RelativeLayout>

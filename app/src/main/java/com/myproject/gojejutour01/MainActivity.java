@@ -7,9 +7,11 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
+import android.content.Intent;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Toast;
@@ -95,4 +97,18 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    public void clickBtn(View view) {
+        Intent intent=new Intent(MainActivity.this,c5_googlemap_2_2.class);
+        startActivity(intent);
+    }
+
+    public void clickBtn2(View view) {
+        Intent intent=new Intent(MainActivity.this,c6_weather_2_3.class);
+        startActivity(intent);
+    }
+
+    public void clickBtn3(View view) {
+        Intent intent=new Intent(MainActivity.this,c7_search_2_4.class);
+        startActivity(intent);
+    }
 }

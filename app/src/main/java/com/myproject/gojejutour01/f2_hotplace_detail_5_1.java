@@ -24,10 +24,7 @@ public class f2_hotplace_detail_5_1 extends AppCompatActivity {
     }
     public class MyGalleryAdapter extends BaseAdapter {
         Context context;
-        Integer[] posterID={R.drawable.mov11, R.drawable.mov12,
-                R.drawable.mov13, R.drawable.mov14, R.drawable.mov15,
-                R.drawable.mov16, R.drawable.mov17, R.drawable.mov18,
-                R.drawable.mov19, R.drawable.mov20};
+        Integer[] posterID={R.drawable.camelia_forest_1};
         public MyGalleryAdapter(Context c){
             context=c;
         }

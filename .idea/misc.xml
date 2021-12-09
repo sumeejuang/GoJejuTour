@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/drawable/ic_baseline_campaign_24.xml" value="0.26979166666666665" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/drawable/ic_baseline_chat_24.xml" value="0.18055555555555555" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.18055555555555555" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/drawable/ic_baseline_textsms_24.xml" value="0.18055555555555555" />
@@ -12,18 +13,26 @@
         <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/activity_main.xml" value="0.22685185185185186" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/b0_1_firstpage_0.xml" value="0.22685185185185186" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/b1_2_login_1.xml" value="0.22685185185185186" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/b2_3_register_1_1.xml" value="0.1" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/c1_4_main_2.xml" value="0.1" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/c2_5_mainsidebar_2_1_1.xml" value="0.176" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/c2_5_mainsidebar_2_1_1_item_sbheader.xml" value="0.264" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/c3_6_header_2_1_2.xml" value="0.22685185185185186" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/c4_7_footer_2_1_3.xml" value="0.21574074074074073" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/c6_9_weather_2_3.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/c6_9_weather_2_3.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/c7_9_search_2_4.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/c8_9_search2_2_5.xml" value="0.2" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/d1_10_mypage_3.xml" value="0.2" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/d2_11_mypage_setting_3_1.xml" value="0.2" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/e1_12_notice_4.xml" value="0.22685185185185186" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/e2_13_notice_detail_4_1.xml" value="0.22685185185185186" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/e2_13_notice_detail_4_1.xml" value="0.22339449541284404" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/f1_14_hotplace_main_5.xml" value="0.22685185185185186" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/f2_15_hotplace_detail_5_1.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/h1_20_traveltalk_7.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/h2_21_traveltalk_detail_7_1.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/h2_21_traveltalk_detail_7_1_item_comment.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/h3_22_raveltalk_update_7_2_2.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/GoJejuTour100/app/src/main/res/layout/h4_23_traveltalk_write_7_2_1.xml" value="0.2101851851851852" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/GoJejuTour01/app/src/main/res/layout/activity_main.xml" value="0.14184397163120568" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/GoJejuTour01/app/src/main/res/layout/b0_1_firstpage_0.xml" value="0.14184397163120568" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/GoJejuTour01/app/src/main/res/layout/b1_2_login_1.xml" value="0.14184397163120568" />

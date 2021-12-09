@@ -78,6 +78,7 @@
                 android:text="@string/signin_login"
                 android:textColor="@color/white"
                 android:background="@color/colorFBlue"
+                android:onClick="clickBtn"
                 />
 
             <android.widget.Button
@@ -90,6 +91,7 @@
                 android:text="@string/signin_register"
                 android:textColor="@color/white"
                 android:background="@color/colorBrick"
+                android:onClick="clickBtn2"
                 />
         </LinearLayout>
 
