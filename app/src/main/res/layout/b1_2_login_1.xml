@@ -18,12 +18,12 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_above="@+id/signin_layout"
+            android:layout_above="@+id/signin_layout2"
             android:layout_alignParentTop="true"
             android:src="@drawable/logo_transparent_w" />
 
         <LinearLayout
-            android:id="@+id/signin_layout"
+            android:id="@+id/signin_layout2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"

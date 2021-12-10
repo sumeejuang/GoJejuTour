@@ -2,6 +2,7 @@ package com.myproject.gojejutour01;
 
 
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
@@ -42,5 +43,25 @@ public class d1_mypage_3 extends AppCompatActivity {
         AlertDialog alertDialog = builder.create();
 
         alertDialog.show();
+    }
+
+    public void clickBtn(View view) {
+        Intent intent=new Intent(d1_mypage_3.this,f2_hotplace_detail_5_1.class);
+        startActivity(intent);
+    }
+
+    public void clickBtn2(View view) {
+        Intent intent=new Intent(d1_mypage_3.this,h1_traveltalk_7.class);
+        startActivity(intent);
+    }
+
+    public void clickBtn3(View view) {
+        Intent intent=new Intent(d1_mypage_3.this,d2_mypage_setting_3_1.class);
+        startActivity(intent);
+    }
+
+    public void clickBtn4(View view) {
+        Intent intent=new Intent(d1_mypage_3.this,b1_login_1.class);
+        startActivity(intent);
     }
 }

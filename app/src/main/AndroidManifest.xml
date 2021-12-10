@@ -12,11 +12,6 @@
         android:theme="@style/Theme.GoJejuTour01">
 
         <activity
-            android:name=".b2_register_1_1"
-            android:exported="true">
-        </activity>
-
-        <activity
             android:name=".b0_firstpage_0"
             android:exported="true">
             <intent-filter>
@@ -31,11 +26,32 @@
         </activity>
 
         <activity
+            android:name=".b2_register_1_1"
+            android:exported="true">
+        </activity>
+
+        <activity
             android:name=".MainActivity"
             android:exported="true">
         </activity>
 
         <activity android:name=".c2_mainsidebar_2_1_1_item_sbheader"
+            android:exported="true">
+        </activity>
+
+        <activity android:name=".c5_googlemap_2_2"
+            android:exported="true">
+        </activity>
+
+        <activity android:name=".c6_weather_2_3"
+            android:exported="true">
+        </activity>
+
+        <activity android:name=".c7_search_2_4"
+            android:exported="true">
+        </activity>
+
+        <activity android:name=".c8_search2_2_5"
             android:exported="true">
         </activity>
 
@@ -47,7 +63,39 @@
             android:exported="true">
         </activity>
 
+        <activity android:name=".e1_notice_4"
+            android:exported="true">
+        </activity>
+
+        <activity android:name=".e2_notice_detail_4_1"
+            android:exported="true">
+        </activity>
+
+        <activity android:name=".f1_hotplace_main_5"
+            android:exported="true">
+        </activity>
+
         <activity android:name=".f2_hotplace_detail_5_1"
+            android:exported="true">
+        </activity>
+
+        <activity android:name=".h1_traveltalk_7"
+            android:exported="true">
+        </activity>
+
+        <activity android:name=".h2_traveltalk_detail_7_1"
+            android:exported="true">
+        </activity>
+
+        <activity android:name=".h2_traveltalk_detail_7_1_item_comment"
+            android:exported="true">
+        </activity>
+
+        <activity android:name=".h3_raveltalk_update_7_2_2"
+            android:exported="true">
+        </activity>
+
+        <activity android:name=".h4_traveltalk_write_7_2_1"
             android:exported="true">
         </activity>
 

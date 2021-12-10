@@ -44,4 +44,38 @@ public class c2_mainsidebar_2_1_1_item_sbheader extends AppCompatActivity {
         alertDialog.show();
     }
 
+    public void clickBtn1(View view) {
+        Intent intent=new Intent(c2_mainsidebar_2_1_1_item_sbheader.this,f2_hotplace_detail_5_1.class);
+        startActivity(intent);
+    }
+
+    public void clickBtn2(View view) {
+        Intent intent=new Intent(c2_mainsidebar_2_1_1_item_sbheader.this,h1_traveltalk_7.class);
+        startActivity(intent);
+    }
+
+    public void clickBtn3(View view) {
+        Intent intent=new Intent(c2_mainsidebar_2_1_1_item_sbheader.this,f1_hotplace_main_5.class);
+        startActivity(intent);
+    }
+
+    public void clickBtn4(View view) {
+        Intent intent=new Intent(c2_mainsidebar_2_1_1_item_sbheader.this,d1_mypage_3.class);
+        startActivity(intent);
+    }
+
+    public void clickBtn5(View view) {
+        Intent intent=new Intent(c2_mainsidebar_2_1_1_item_sbheader.this,h1_traveltalk_7.class);
+        startActivity(intent);
+    }
+
+    public void clickBtn6(View view) {
+        Intent intent=new Intent(c2_mainsidebar_2_1_1_item_sbheader.this,b1_login_1.class);
+        startActivity(intent);
+    }
+
+    public void clickBtn7(View view) {
+        Intent intent=new Intent(c2_mainsidebar_2_1_1_item_sbheader.this,e1_notice_4.class);
+        startActivity(intent);
+    }
 }
